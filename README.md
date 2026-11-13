@@ -209,4 +209,4 @@ This repository serves as the official landing page for AdWords Editor. The soft
 **Get the most recent version of AdWords Editor today!**
 
 ---
-**Last updated:** 2026-11-12 21:41:08 UTC
+**Last updated:** 2026-11-13 02:20:09 UTC
